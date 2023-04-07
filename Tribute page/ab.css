@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #ccffff , #ffff66);
+}
+.section{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 70%;
+    margin: auto auto auto auto;
+}
+.section h2{
+    color: #ea6a33;
+    margin-top: 2px;
+}
+h1{
+    margin-bottom: 40px;
+    color: rgb(19, 41, 204);
+    margin-top: 30px;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-style: italic;
+  letter-spacing: 1px;
+  font-size: 50px;
+}
+.section p{
+    color: aliceblue;
+    margin-right: 15px;
+    margin-top: 2px;
+    margin-left: 15px;
+}
+
+img{
+    height: 500px;
+    width: 600px;
+}
